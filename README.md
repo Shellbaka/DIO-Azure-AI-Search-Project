@@ -1,3 +1,6 @@
+## Pesquisa Cognitiva Usando a Azure IA.
+###     Feito por Kewen Wesley.
+
 🔍 Configuração da Pesquisa Cognitiva no Azure
 
 Este documento descreve o passo a passo para configurar uma pesquisa cognitiva no Azure, além de apresentar insights, ferramentas que se beneficiam dessa tecnologia e aprendizados adquiridos ao longo do processo.
